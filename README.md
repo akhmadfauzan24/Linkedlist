@@ -12,9 +12,9 @@ struct node
 
 /* 
 
-NAMA: Irfan Fahrurrozi
-NIM : 14.11.7986
-KELAS: 14-S1TI-06
+NAMA: Akhmad Fauzan
+NIM : 10118411
+KELAS: 2KA30
 
  */
 

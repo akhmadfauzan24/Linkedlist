@@ -12,7 +12,7 @@ struct node
 
 /* 
 
-NAMA: Akhmad Fauzan
+NAMA:  AkhmadFauzan
 NIM : 10118411
 KELAS: 2KA30
 
@@ -34,7 +34,7 @@ void inisialisasi()
 
 INI MERUPAKAN IMPLEMENTASI PROGRAM
 MENGGUNAKAN LINKED LIST.
-© IRFAN FAHRURROZI
+© AkhmadFauzan
 
  */
 
